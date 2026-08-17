@@ -90,6 +90,7 @@ Build, integrate or query prediction markets.
 
 ## 📊 Data & Analytics
 
+- [EdgeMarket](https://edgemarket.co) — Polymarket and crypto-perp analytics: public Oracle register (confirmed 5-min calls, misses included), operators ranked by measured alpha, funding/OI/liquidations across four venues. Free observer tier.
 - [**DefiLlama — Prediction Markets**](https://defillama.com/) — Category TVL/volume tracking across prediction-market protocols.
 - [**Dune**](https://dune.com/) — Community dashboards for Polymarket and other on-chain markets.
 - [**Polymarket Leaderboard**](https://polymarket.com/leaderboard) — Public trader rankings and volumes.
