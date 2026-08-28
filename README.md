@@ -93,6 +93,7 @@ Build, integrate or query prediction markets.
 - [**DefiLlama — Prediction Markets**](https://defillama.com/) — Category TVL/volume tracking across prediction-market protocols.
 - [**Dune**](https://dune.com/) — Community dashboards for Polymarket and other on-chain markets.
 - [**Polymarket Leaderboard**](https://polymarket.com/leaderboard) — Public trader rankings and volumes.
+- [**PolymarketScan**](https://polymarketscan.org/) - Independent Polymarket explorer ([whale tracker](https://polymarketscan.org/whale-tracker), [best traders](https://polymarketscan.org/best-polymarket-traders)).
 
 ---
 
