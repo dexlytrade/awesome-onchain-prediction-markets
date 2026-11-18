@@ -94,6 +94,7 @@ Build, integrate or query prediction markets.
 - [**DefiLlama — Prediction Markets**](https://defillama.com/) — Category TVL/volume tracking across prediction-market protocols.
 - [**Dune**](https://dune.com/) — Community dashboards for Polymarket and other on-chain markets.
 - [**Polymarket Leaderboard**](https://polymarket.com/leaderboard) — Public trader rankings and volumes.
+- [**NeuPortal Forecast Ledger**](https://neuportal.ai/experiment) — Public log of 7,400+ AI model forecasts on Polymarket questions, Bitcoin-timestamped and Brier-scored against the market price; the market currently scores better. [Data](https://doi.org/10.5281/zenodo.24051884), [proofs](https://github.com/neuportalai-ui/experiment-proofs).
 
 ---
 
