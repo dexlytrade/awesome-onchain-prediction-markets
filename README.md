@@ -44,6 +44,7 @@ Consumer-facing venues where you can trade outcomes directly.
 | Project | Model | Chain | Notable | Status | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Polymarket** 🔓 | Order book (CLOB) | Polygon | Largest on-chain prediction market by volume; USDC-settled; Gnosis CTF + UMA resolution | 🟢 Live | [polymarket.com](https://polymarket.com/) |
+| **Perpex Predictions** 🔓 | Order book (Hyperliquid HIP-4) | Hyperliquid L1 | Self-custodial iOS/Android/web app for Hyperliquid's native HIP-4 outcome markets (crypto, sports, macro); live odds, settled in USDC from your Hyperliquid spot balance | 🟢 Live | [perpex.co/predictions](https://perpex.co/predictions) |
 | **Limitless** 🔓 | Order book + AMM | Base | Crypto, sports, finance and politics markets, incl. short-duration (5-min/hourly) price markets | 🟢 Live | [limitless.exchange](https://limitless.exchange/) |
 | **Myriad** 🔓 | AMM | Abstract, Linea, BNB | Prediction app by DASTAN (Decrypt / Rug Radio); crypto, sports, politics and culture markets | 🟢 Live | [myriad.markets](https://myriad.markets/) |
 | **Drift BET** 🔓 | On-chain | Solana | Prediction markets from the Drift perps protocol; multi-collateral | 🟢 Live | [app.drift.trade/bet](https://app.drift.trade/bet) |
@@ -103,6 +104,7 @@ Build, integrate or query prediction markets.
 - [**UMA — Prediction Market tutorial**](https://docs.uma.xyz/developers/optimistic-oracle-v3/prediction-market) — How an optimistic-oracle-resolved market works end to end.
 - [**Gnosis Conditional Tokens docs**](https://docs.gnosis.io/conditionaltokens/) — Outcome-token mechanics and motivation.
 - [**Polymarket — Learn**](https://docs.polymarket.com/concepts) — How prediction markets and resolution work.
+- [**Hyperliquid HIP-4 outcome markets explained (Perpex)**](https://perpex.co/research/hyperliquid-hip-4-outcome-markets) — How HIP-4 outcome markets are created and settled on Hyperliquid.
 
 ---
 
