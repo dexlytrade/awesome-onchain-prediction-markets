@@ -51,6 +51,7 @@ Consumer-facing venues where you can trade outcomes directly.
 | **bookmaker.XYZ** 🔓 | Azuro liquidity | Multi-chain | Consumer sports app powered by Azuro's permissionless markets | 🟢 Live | [bookmakerxyz.app](https://bookmakerxyz.app/) |
 | **Sapience (Foil)** 🔓 | AMM | Base, Ethereum | Markets on on-chain "resources" such as gas and blobspace; UMA-resolved | 🟢 Live | [foil.xyz](https://foil.xyz/) |
 | **Melbo** 🔓 | Third-party on-chain liquidity protocol | Polygon | Melbo is a non-custodial interface to prediction markets: trade Yes/No shares on real-world events, where the price shows the market's probability. | 🟢 Live | [melbo.io](https://melbo.io/) |
+| **Perpex Predictions** 🔓 | Order book (Hyperliquid HIP-4) | Hyperliquid L1 | Self-custodial iOS/Android/web app for Hyperliquid's native HIP-4 outcome markets (crypto, sports, macro); live odds, settled in USDC from your Hyperliquid spot balance | 🟢 Live | [perpex.co/predictions](https://perpex.co/predictions) |
 
 > Building an on-chain prediction-market app? Open a PR — neutral, accurate descriptions only.
 
